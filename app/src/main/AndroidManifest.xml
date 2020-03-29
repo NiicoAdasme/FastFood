@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cl.ubb.fastfood">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".barrosjarpa"
+            android:label="@string/labeljarpa"
+            android:parentActivityName=".sandwich">
+
+        </activity>
+        <activity
+            android:name=".barrosluco"
+            android:label="@string/labelluco"
+            android:parentActivityName=".sandwich"></activity>
+        <activity
+            android:name=".chacarero"
+            android:label="@string/labelchacarero"
+            android:parentActivityName=".sandwich" />
+        <activity
+            android:name=".aleman"
+            android:label="@string/labelaleman"
+            android:parentActivityName=".sandwich" />
+        <activity
+            android:name=".italiano"
+            android:label="@string/labelitaliano"
+            android:parentActivityName=".sandwich" />
+        <activity
+            android:name=".acercaDeNosotros"
+            android:label="@string/FastFood"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".sandwich"
+            android:label="@string/sandwiches"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FastFood</string>
+    <string name="logoindex">Logo</string>
+    <string name="Sandwich">Sandwich</string>
+    <string name="sobreNosotros">Sobre Nosotros</string>
+    <string name="textArea">Somos una empresa de la región con más de 10 años de experiencia realizando sandwiches! Los mejores de la zona, si no
+    chorrea no es fast food.</string>
+    <string name="italiano">Italiano</string>
+    <string name="chacarero">Cacharero</string>
+    <string name="barrosLuco">Barros Luco</string>
+    <string name="aleman">Aleman</string>
+    <string name="barrosJarpa">Barros Jarpa</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="FastFood">FAST FOOD</string>
+    <string name="labelitaliano">Detalle Sandwich Churrasco Italiano</string>
+    <string name="labelaleman">Detalle Sandwich Churrasco Aleman</string>
+    <string name="labelluco">Detalle Sandwich Churrasco Barros Luco</string>
+    <string name="labeljarpa">Detalle Sandwich Churrasco Barros Jarpa</string>
+    <string name="labelchacarero">Detalle Sandwich Churrasco Chacarero</string>
+    <string-array name="arrayitaliano">
+        <item>Sandwich Italiano</item>
+        <item>italiano.png</item>
+        <item>Delicioso sandwich de churrasco con tomate fresco, la mejor palta de la zona y mayonesa casera</item>
+        <item>$3500 CLP</item>
+    </string-array>
+    <string-array name="arrayaleman">
+        <item>Sandwich Aleman</item>
+        <item>aleman.png</item>
+        <item>Delicioso sandwich de churrasco con huevo, salchicha, cebolla y manzana</item>
+        <item>$3500 CLP</item>
+    </string-array>
+    <string-array name="arraybarrosluco">
+        <item>Sandwich Barros Luco</item>
+        <item>barrosluco.png</item>
+        <item>Delicioso sandwich de churrasco y queso fundido</item>
+        <item>$3500 CLP</item>
+    </string-array>
+    <string-array name="arraybarrsojarpa">
+        <item>Sandwich Barros Jarpa</item>
+        <item>barrosjarpa.png</item>
+        <item>Delicioso sandwich de jamón y queso fundido</item>
+        <item>$3500 CLP</item>
+    </string-array>
+    <string-array name="arraychacarero">
+        <item>Sandwich Chacarero</item>
+        <item>chacarero.png</item>
+        <item>Delicioso sandwich de churrasco con tomate fresco, los mejores porotos verdes de la zona, ají verde y mayonesa casera</item>
+        <item>$3500 CLP</item>
+    </string-array>
+
+</resources>
